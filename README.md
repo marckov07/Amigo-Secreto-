@@ -11,3 +11,6 @@ Esta pagina web te permite organizar un sorteo de amigo secreto de manera rápid
 
 🎥 **Demostración**
 
+![Image](https://github.com/user-attachments/assets/98dbfbbf-b633-4d1e-ba88-df297fdafee8)
+![Image](https://github.com/user-attachments/assets/fbf1c0c1-4b22-4f68-8d65-6cd3baa52dcc)
+![Image](https://github.com/user-attachments/assets/b158c8f2-e2be-4375-b69a-7c5ec7d8e2fb)
